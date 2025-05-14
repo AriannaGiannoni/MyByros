@@ -2,7 +2,7 @@ Esercizio_1
 # Data Review & Test Planning
 
 
-Analisi di un dataset contenente informazioni relative a ricevute fiscali. 
+Analisi di un dataset contenente informazioni relative a ricevute. 
 Il dataset è stato caricato e analizzato utilizzando Python con libreria Pandas.
 
 ## Descrizione del Dataset
