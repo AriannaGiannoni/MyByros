@@ -1,4 +1,4 @@
-mosEsercizio_1 
+bomosEsercizio_1 
 # Data Review & Test Planning
 
 
@@ -91,5 +91,5 @@ Dopo aver caricato immagine e dati, lo script `visualization.py` esegue le segue
 
 ## Dipendenze
 - Json
-- PIL  
+- PIL  (elaborare e scrivere sull'immagine)
 - Ipython (per mostrare l'immagine su Colab)
