@@ -45,7 +45,6 @@ Eseguire il codice Python in un ambiente che supporti Pandas.
 
 ## Dipendenze
 
-- Python
 - Pandas
 
 
