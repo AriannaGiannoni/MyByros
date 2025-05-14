@@ -45,8 +45,8 @@ Eseguire il codice Python in un ambiente che supporti Pandas.
 
 ## Dipendenze
 
-Python 3.x e le seguenti librerie:
-pip install pandas
+Python 
+Pandas
 
 
 
